@@ -3,6 +3,13 @@
 This project dives into a detailed exploratory data analysis (EDA) of the **Superstore dataset**, using **pandas**, **seaborn**, and **matplotlib**. The focus was on uncovering meaningful insights around customer orders, sales trends, and profit performance.
 
 ---
+## 🎯 Project Objective
+
+The objective of this project is to explore the Superstore dataset using Python to uncover actionable business insights.  
+By analyzing patterns in orders, sales, and profits across product categories, customer segments, and regions,  
+the aim is to support smarter decision-making in areas such as **inventory planning**, **marketing strategies**, and **regional performance optimization**.
+
+
 
 ## 🔍 Project Structure
 
